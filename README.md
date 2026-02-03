@@ -99,9 +99,9 @@ Recap of Findings:
 
 ---
 
-[Click here for the dbt codes](dbt)
+[Click here for the dbt codes](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights/tree/main/dbt)
 
-[Click here for the python code](python)
+[Click here for the python code](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights/tree/main/python)
 
 [Click here for the Postgres and parquet data sets](https://app.datacamp.com/learn/projects/1833)
 
