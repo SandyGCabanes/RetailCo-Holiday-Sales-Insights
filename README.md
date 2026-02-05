@@ -2,6 +2,7 @@
 # Walmart Holiday Sales Insights - Analyst's Report
 ### dbt, python
 ## Overview  
+Holiday demand is volatile, and retailers need to understand which departments drive holiday lifts, which stores perform well, and dampen inventory risk.
 This analysis evaluates how holiday timing, department mix, store characteristics, weather, and macroeconomic conditions influence weekly sales. The objective is to surface patterns that can guide seasonal planning, merchandising decisions, and operational readiness. 
 
 ---
@@ -23,7 +24,7 @@ Holiday weeks in the dataset correspond to Super Bowl (February), Labor Day (Sep
 ## What Departments Drive Holiday Lift
 Department 72 (Electronics) shows the largest holiday lift by a wide margin, followed by Media & Gaming (Dept 5) and Toys (Dept 7). These align with typical gifting categories.
 
-**Implication:** Electronics should receive priority in seasonal planning, including feature space, inventory depth, and promotional visibility. Secondary gifting categories should receive proportionate support.
+**Implication:** Electronics should receive priority in seasonal planning, including feature space, inventory depth, and promotional visibility. Secondary gifting categories should receive proportionate support based on lift. These top categories should be replenished earlier to avoid stockouts.
 
 ![Departments Driving Holiday Lifts](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights/blob/main/assets/holiday_nonholiday_bydept.png)
 
