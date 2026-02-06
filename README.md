@@ -1,5 +1,4 @@
-![Walmart](https://github.com/SandyGCabanes/Walmart-Holiday-Sales-Insights/blob/main/assets/Walmart-Logo-New.png)
-# Walmart Holiday Sales Insights - Analyst's Report
+# RetailCo Holiday Sales Insights - Analyst's Report
 ### dbt, python
 ## Overview  
 Holiday demand is volatile, and retailers need to understand which departments drive holiday lifts, which stores perform well, and dampen inventory risk.
