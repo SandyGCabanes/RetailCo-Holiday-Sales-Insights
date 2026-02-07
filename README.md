@@ -11,7 +11,7 @@ Holiday weeks in the dataset correspond to Super Bowl (February), Labor Day (Sep
 
 **Observed patterns:**  
 - November shows the strongest lift, driven by pre‑Christmas shopping and Black Friday activity.  
-- The week immediately preceding Christmas softens, indicating that most holiday purchasing is completed earlier.  
+- Christmas week softens, indicating that most holiday purchasing is completed earlier.  
 - Sales normalize quickly after the season, supporting the need for rapid post‑holiday retail activities.
 
 **Implication:** Seasonal preparation should begin in October, with labor and inventory concentrated in the pre‑Christmas build. The Christmas week itself does not require elevated staffing.
