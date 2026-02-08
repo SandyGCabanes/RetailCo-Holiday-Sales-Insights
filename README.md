@@ -1,8 +1,7 @@
 # RetailCo Holiday Sales Insights - Analyst's Report
 ### sql, duckdb, dbt, python
 ## Overview  
-Holiday demand is volatile, and retailers need to understand which departments drive holiday lifts, which stores perform well, and dampen inventory risk.
-This analysis evaluates how holiday timing, department mix, store characteristics, weather, and macroeconomic conditions influence weekly sales. The objective is to surface patterns that can guide seasonal planning, merchandising decisions, and operational readiness. 
+This analysis evaluates how holiday timing, department mix, store characteristics, weather, and macroeconomic conditions influence weekly sales. The objective is to surface patterns that can guide seasonal planning, merchandising decisions, and operational readiness.  This is useful because holiday demand is volatile, and retailers need to understand which departments drive holiday lifts, which stores perform well, leading to less inventory risk.
 
 ---
 
